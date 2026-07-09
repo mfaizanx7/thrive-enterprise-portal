@@ -48,19 +48,6 @@ The platform was designed to simplify operational processes while providing admi
 
 ---
 
-# Screenshots
-
-![](Screenshot-1.png)
-
----
-
-![](Screenshot-2.png)
-
----
-
-![](Screenshot-3.png)
-
----
 
 # Architecture
 
